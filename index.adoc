@@ -4,7 +4,7 @@ The Public GeoHealth Repository provides public data to advance research on data
 
 image::img/brain-connections.png[width=400]
 
-Why are we unique?
+=== Why are we unique?
 
 - The data is public
 - The data is composed of health data, environmental data, activity data, food intake, etc.
